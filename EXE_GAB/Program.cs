@@ -1,6 +1,4 @@
 ﻿
-//GABI legal
-//companheira
 using System;
 using System.Data;
 using System.Linq.Expressions;
